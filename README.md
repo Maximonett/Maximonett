@@ -18,7 +18,7 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maximosimonetti&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maximonett&show_icons=true&theme=radical) 
 
 ## 🏆 Trofeos
-![Trofeos](https://github-profile-trophy.vercel.app/?username=maximosimonetti&theme=radical)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=maximonett&theme=radical)
