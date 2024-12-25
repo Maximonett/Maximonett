@@ -3,7 +3,7 @@
 # 👋 Hola, soy Máximo Simonetti
 
 ## 🚀 Sobre mí
-- 💻 Desarrollador apasionado por [tu especialidad, por ejemplo, Python, desarrollo web].
+- 💻 Desarrollador apasionado por [ Java ,Python, desarrollo web].
 - 🌱 Actualmente aprendiendo: [lenguaje o tecnología, como React, Docker, etc.].
 - 🔭 Trabajando en: [proyectos actuales o repositorios interesantes].
 - 🎯 Objetivo: [algo como "Contribuir a proyectos de código abierto" o "Construir soluciones escalables"].
