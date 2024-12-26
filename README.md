@@ -3,8 +3,8 @@
 # 👋 Hola, soy Máximo Simonetti
 
 ## 🚀 Sobre mí
-- 💻 Desarrollador apasionado por Java ,Python, desarrollo web.
-- 🌱 Actualmente aprendiendo: lenguaje o tecnología.
+- 💻 Desarrollador en Java, Python, desarrollo web.
+- 🌱 Actualmente aprendiendo: Nuevas Tecnologias.
 - 🔭 Trabajando en: Biotecnología y Biología Molecular.
 - 🎯 Objetivo: Construir soluciones escalables.
 - 📫 Cómo contactarme: maximosimonetti@gmail.com, LinkedIn: https://www.linkedin.com/in/maximo-andres-simonetti-76462525/
@@ -16,6 +16,8 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maximonett&show_icons=true&theme=radical) 
