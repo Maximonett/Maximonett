@@ -20,7 +20,7 @@
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,android&theme=light)](https://skillicons.dev)
 
 
 
