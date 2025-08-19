@@ -3,7 +3,7 @@
 # 👋 Hola, soy Máximo Simonetti
 
 ## 🚀 Sobre mí
-- 💻 Desarrollador en Java, Python, desarrollo web.
+- 💻 Desarrollador Java, Python, desarrollo web.
 - 🌱 Actualmente aprendiendo: Nuevas Tecnologias.
 - 🔭 Trabajando en: Biotecnología y Biología Molecular.
 - 🎯 Objetivo: Construir soluciones escalables.
