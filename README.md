@@ -19,8 +19,8 @@
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 
-![Repo1](https://img.shields.io/github/languages/top/Maximonett/Repo1?color=blue)
-![Repo2](https://img.shields.io/github/languages/top/Maximonett/Repo2?color=green)
+![Taller2024](https://img.shields.io/github/languages/top/Maximonett/Repo1?color=blue)
+![FOD](https://img.shields.io/github/languages/top/Maximonett/Repo2?color=green)
 
 
 
