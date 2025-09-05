@@ -20,14 +20,12 @@
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 
 Taller2024
-
 ![Taller2024](https://img.shields.io/github/languages/top/Maximonett/Taller2024?color=blue)
-FOD
 
+FOD
 ![FOD](https://img.shields.io/github/languages/top/Maximonett/FOD?color=green)
 
 Android
-
 ![ANDROID](https://img.shields.io/github/languages/top/Maximonett/ANDROID?color=green)
 
 
