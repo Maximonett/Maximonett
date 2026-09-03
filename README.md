@@ -25,7 +25,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,androidstudio&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,androidstudio,docker,react&theme=light)](https://skillicons.dev)
 
 
 
