@@ -1,5 +1,3 @@
-
-
 # 👋 Hola, soy Máximo Simonetti
 
 ## 🚀 Sobre mí
@@ -7,7 +5,7 @@
 - 🌱 Actualmente aprendiendo: Nuevas Tecnologias.
 - 🔭 Trabajando en: Biotecnología y Biología Molecular.
 - 🎯 Objetivo: Construir soluciones escalables.
-- 📫 Cómo contactarme: maximosimonetti@gmail.com, LinkedIn: https://www.linkedin.com/in/maximo-andres-simonetti-76462525/, wwww.futbolapp.com.ar 
+- 📫 Cómo contactarme: maximosimonetti@gmail.com, LinkedIn: https://www.linkedin.com/in/maximo-andres-simonetti-76462525/, [www.futbolapp.com.ar](https://www.futbolapp.com.ar)
 
 ## 🛠️ Lenguajes y Herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -23,14 +21,4 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,androidstudio,docker,react,node.js&theme=light)](https://skillicons.dev)
-
-
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,androidstudio,docker,react,nodejs&theme=light)](https://skillicons.dev)
