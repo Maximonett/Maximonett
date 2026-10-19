@@ -7,7 +7,7 @@
 - 🌱 Actualmente aprendiendo: Nuevas Tecnologias.
 - 🔭 Trabajando en: Biotecnología y Biología Molecular.
 - 🎯 Objetivo: Construir soluciones escalables.
-- 📫 Cómo contactarme: maximosimonetti@gmail.com, LinkedIn: https://www.linkedin.com/in/maximo-andres-simonetti-76462525/
+- 📫 Cómo contactarme: maximosimonetti@gmail.com, LinkedIn: https://www.linkedin.com/in/maximo-andres-simonetti-76462525/, wwww.futbolapp.com.ar 
 
 ## 🛠️ Lenguajes y Herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,7 +26,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,androidstudio,docker,react,node&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,androidstudio,docker,react,node.js&theme=light)](https://skillicons.dev)
 
 
 
