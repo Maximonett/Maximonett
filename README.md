@@ -1,11 +1,12 @@
 # 👋 Hola, soy Máximo Simonetti
 
 ## 🚀 Sobre mí
-- 🎓 **Formación:** Lic. en Biotecnología y Biología Molecular (Facultad de Cs. Exactas, UNLP) | Estudiante de Analista en Programación Universitaria - APU (Facultad de Informática, UNLP).
+- 🎓 **Formación:** Lic. en Biotecnología y Biología Molecular (Facultad de Cs. Exactas, UNLP)
+- 🤓 Estudiante de la carrera Analista en Programación Universitaria - APU (Facultad de Informática, UNLP).
 - 💻 Desarrollador Java, JS, React, Python, desarrollo web.
 - 🌱 Actualmente aprendiendo: Nuevas Tecnologías.
-- 🔭 Trabajando en: Biotecnología y Biología Molecular.
-- 🎯 Objetivo: Construir soluciones escalables.
+- 🔭 Trabajando en: Quimica Analitica Instrumental en el ILPLA-CONICET. [www.ilpla.edu.ar](https://ilpla.edu.ar/)
+  
 - 📫 Cómo contactarme: maximosimonetti@gmail.com, LinkedIn: https://www.linkedin.com/in/maximo-andres-simonetti-76462525/
 - 👨🏻‍💻 Desarrollando: [www.futbolapp.com.ar](https://futbolapp.com.ar/)
 
