@@ -4,9 +4,9 @@
 - 🎓 **Formación:** Lic. en Biotecnología y Biología Molecular (Facultad de Cs. Exactas, UNLP)
 - 🤓 Estudiante de la carrera Analista en Programación Universitaria - APU (Facultad de Informática, UNLP).
 - 💻 Desarrollador Java, JS, React, Python, desarrollo web.
+- 🧠 **Inteligencia Artificial:** Conocimientos sólidos en IA agéntica y manejo de Claude Code.
 - 🌱 Actualmente aprendiendo: Nuevas Tecnologías.
-- 🔭 Trabajando en: Quimica Analitica Instrumental en el ILPLA-CONICET. [www.ilpla.edu.ar](https://ilpla.edu.ar/)
-  
+- 🔭 Trabajando en: Química Analítica Instrumental en el ILPLA-CONICET. [www.ilpla.edu.ar](https://ilpla.edu.ar/)
 - 📫 Cómo contactarme: maximosimonetti@gmail.com, LinkedIn: https://www.linkedin.com/in/maximo-andres-simonetti-76462525/
 - 👨🏻‍💻 Desarrollando: [www.futbolapp.com.ar](https://futbolapp.com.ar/)
 
@@ -23,5 +23,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,bootstrap,css,html,github,kotlin,androidstudio,docker,react,nodejs&theme=light)](https://skillicons.dev)
